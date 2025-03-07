@@ -13,3 +13,19 @@ function arithmetic (num1, num2){
     console.log(sum, difference, product, ratio)
 }
 arithmetic(10,2)
+
+//3-
+
+for (let i=1;i<=10; i++)  {
+    console.log
+}
+
+
+
+//4-
+if (num%2==0) {
+    console.log("this is even");
+} else {
+    console.log('the number ${num} is odd');
+}
+
